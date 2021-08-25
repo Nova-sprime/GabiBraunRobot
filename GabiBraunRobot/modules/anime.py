@@ -681,7 +681,7 @@ Get information about anime, manga or characters from [AniList](anilist.co).
  - /airing <anime>: returns anime airing info.
  - /kaizoku <anime>: search an anime on animekaizoku.com
  - /kayo <anime>: search an anime on animekayo.com
- - /aat <anime>: search an anime on animeacademy.in
+ - /tpx <anime>: search an anime on hindisub.com
  - /hsa <anime>: search an anime on hindianime.net
  - /ast <anime>: search an anime on animesubingteam.000webhostapp.com
  - /atf <anime>: search an anime on atfanime.in
